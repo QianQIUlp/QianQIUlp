@@ -2,7 +2,7 @@
 
 Building practical systems across automation, data workflows, and developer tooling.
 
-[PLACEHOLDER: dynamic typing SVG or custom banner]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=200&color=AF2D4C&center=true&vCenter=true&multiline=true&width=602&height=100&lines=A+CS+geek+building;high-availability+architectures+with+code+and;playing+the+rhythm+of+life+on+an+electric+guitar)](https://git.io/typing-svg)
 
 <br>
 
@@ -53,10 +53,10 @@ Building practical systems across automation, data workflows, and developer tool
 
 ## 🎯 Current Focus
 
-- 🌱 I'm currently learning **[PLACEHOLDER: topic]**
-- 🔭 I'm currently building **[PLACEHOLDER: project/focus area]**
-- 💡 Ask me about **[PLACEHOLDER: expertise area]**
-- 🤝 I'm open to collaborating on **[PLACEHOLDER: collaboration interests]**
+- 🌱 I'm currently learning Airflow orchestration and Spark-based ETL design
+- 🔭 I'm currently building a Notion-integrated automation dashboard for recurring reporting
+- 💡 Ask me about Python scripting, Dockerized workflows, and Hadoop local clusters
+- 🤝 I'm open to collaborating on automation tooling, data engineering demos, and DevOps workflow templates
 
 <br>
 
@@ -64,7 +64,9 @@ Building practical systems across automation, data workflows, and developer tool
 
 ## 🌐 Connect With Me
 
+[![bilibili](https://img.shields.io/badge/bilibili-000000?style=for-the-badge&logo=bilibili&logoColor=pink)](https://space.bilibili.com/400485069)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PLACEHOLDER_LINKEDIN_URL)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](PLACEHOLDER_X_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](PLACEHOLDER_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER_EMAIL)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](PLACEHOLDER_NOTION_URL)

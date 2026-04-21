@@ -44,7 +44,7 @@ Building practical systems across automation, data workflows, and developer tool
 | Project Name | Short Description | Tech Stack | Link |
 |---|---|---|---|
 | auto-dashboard | Automated dashboard that aggregates information into Notion. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) | [View Repo](https://github.com/QianQIUlp/auto-dashboard) |
-| dockder-hadoop-cluster | Dockerized Hadoop cluster setup for big data learners. | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) | [View Repo](https://github.com/QianQIUlp/dockder-hadoop-cluster) |
+| docker-hadoop-cluster | Dockerized Hadoop cluster setup for big data learners. | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) | [View Repo](https://github.com/QianQIUlp/dockder-hadoop-cluster) |
 | skills-introduction-to-github | GitHub skills practice repository focused on core platform workflows. | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | [View Repo](https://github.com/QianQIUlp/skills-introduction-to-github) |
 
 <br>
@@ -64,7 +64,7 @@ Building practical systems across automation, data workflows, and developer tool
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<PLACEHOLDER_LINKEDIN_URL>)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](<PLACEHOLDER_X_URL>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](<PLACEHOLDER_PORTFOLIO_URL>)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<PLACEHOLDER_EMAIL>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PLACEHOLDER_LINKEDIN_URL)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](PLACEHOLDER_X_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](PLACEHOLDER_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PLACEHOLDER_EMAIL)

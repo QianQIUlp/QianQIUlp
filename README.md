@@ -2,7 +2,16 @@
 
 Building practical systems across automation, data workflows, and developer tooling.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=200&color=AF2D4C&center=true&vCenter=true&multiline=true&width=602&height=100&lines=A+CS+geek+building;high-availability+architectures+with+code+and;playing+the+rhythm+of+life+on+an+electric+guitar)](https://git.io/typing-svg)
+<table>
+	<tr>
+		<td width="68%" valign="top">
+			<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=200&color=AF2D4C&center=true&vCenter=true&multiline=true&width=602&height=100&lines=A+CS+geek+building;high-availability+architectures+with+code+and;playing+the+rhythm+of+life+on+an+electric+guitar" alt="Typing SVG" /></a>
+		</td>
+		<td width="32%" align="right" valign="top">
+			<img src="https://raw.githubusercontent.com/QianQIUlp/QianQIUlp/main/assets/images/profile-guitar-v1.png?size=260" alt="QianQIUlp photo" width="230" />
+		</td>
+	</tr>
+</table>
 
 <br>
 

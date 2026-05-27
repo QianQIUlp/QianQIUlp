@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 大幅度重构主页 `README.md`，使其在文案风格上与 **“Qiu 的小屋” (qianqiulp.github.io)** 的暖炭黑极简 Notion 风完全统一。
 - 清理并替换了所有社交及联系方式的 `PLACEHOLDER` 占位链接，加入了真实的 Bilibili 及个人博客主页地址，移除了无实际内容的其他占位徽章。
 - 项目列表中补充了 `qianqiulp.github.io`（Qiu 的小屋）旗舰项目并置顶，配备合适的 Shields 徽章。
+- 微调主页 `README.md` 顶部排版，移除个人主页中重复的小屋介绍，将吉他演奏照高度设为 100px 与打字机 SVG 绝对对齐，消除空白多余的布局。
 
 ---
 

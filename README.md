@@ -2,34 +2,54 @@
   <img src="assets/banner.svg" alt="Qiu / 千秋 — Study Room · Workbench · Notes" width="800" />
 </picture>
 
-I build local-first tools for problems I encounter in everyday work and life.
+**CS student · indie developer**
 
-My projects usually begin with the same question: how can software preserve useful history, make its decisions inspectable, and still leave the user in control?
+I build local-first software with explicit boundaries: tools that keep useful state under the user’s control, expose evidence instead of hiding decisions, and say clearly what they do not solve.
 
-[Website](https://qianqiulp.github.io/) · [Projects](https://qianqiulp.github.io/projects/) · [Writing](https://qianqiulp.github.io/blog/)
+Currently building **[VeriSilo](https://verisilo.qiu.works)**, a Windows-first, open-source browser environment isolation and privacy-auditing project for Chrome and Edge.
+
+[Developer profile](https://qiu.works) · [中文](https://qiu.works/zh/) · [Qiu’s Room](https://room.qiu.works/en/) · [Writing](https://qiu.works/#writing) · [Email](mailto:qstudio@qiu.works)
+
+## Current focus
+
+### [VeriSilo](https://verisilo.qiu.works)
+
+Every Silo launches Chrome or Edge with its own managed data directory, keeping cookies, storage, cache, service workers, permissions, and history inside that environment rather than the default browser profile.
+
+VeriSilo is explicit about its limits: it does not claim device impersonation, fraud bypass, TLS or QUIC modification, hardware isolation, or undetectability.
+
+`Pre-release engineering` · `Windows-first` · `Open source` · [Product site](https://verisilo.qiu.works) · [Source](https://github.com/QianQIUlp/VeriSilo)
 
 ## Selected work
 
 ### [MealCircuit](https://github.com/QianQIUlp/meal-circuit)
 
-A local-first nutrition feedback workbench that connects meal records, daily observations, recent trends, and user corrections. It preserves the context needed for better follow-up decisions instead of treating every analysis as a fresh start.
+A local-first nutrition feedback workbench that connects meal photos, daily state, recent trends, and user corrections into a history that can improve the next decision.
 
-`Local-first` · `Agent-in-the-loop` · `Python` · `SQLite`
+`Available · v0.2.0` · `Local-first` · `Python` · `SQLite`
 
 ### [Crewlight](https://github.com/QianQIUlp/Crewlight)
 
-A read-only activity radar for people working with multiple AI coding agents. It brings active, waiting, failed, and potentially stalled sessions into one local view without collecting prompts or controlling the agents.
+A local-first activity radar for parallel AI coding agents. It brings running, waiting, permission-request, completed, and failed states into read-only desktop, dashboard, companion, and CLI views without storing prompts or transcripts.
 
-Archived prototype · `v0.4.0` · `TypeScript` · `Electron`
+`Stabilizing · v0.5.0 candidate` · `TypeScript` · `Electron`
 
-### [Docker-Hadoop-Cluster](https://github.com/QianQIUlp/dockder-hadoop-cluster)
+### [Docker-Hadoop-Cluster](https://github.com/QianQIUlp/docker-hadoop-cluster)
 
-A reproducible Hadoop 3.4.1 environment for learning and classroom experiments. It packages HDFS, YARN, MapReduce, example jobs, and common inspection workflows into a Docker Compose cluster.
+A repeatable local Hadoop laboratory that connects environment setup, service inspection, MapReduce, and three-node failure and recovery into a guided learning path.
 
-`Docker Compose` · `Hadoop` · `HDFS` · `YARN`
+`Teaching · local experimentation` · `Docker Compose` · `Hadoop` · `HDFS` · `YARN`
 
-## Notes
+## How I build
 
-I write about software systems, AI tools, learning, and the decisions behind the things I build.
+- **Local-first** — Keep useful work and private state on the user’s machine by default.
+- **Inspectable systems** — Expose evidence, history, and capability state instead of hiding judgment behind a score.
+- **Explicit boundaries** — Say what the software does not solve before marketing fills in the blank.
+- **Reproducible infrastructure** — Turn setup and recovery into paths another person can repeat and verify.
+- **User-controlled data** — Prefer deliberate export, correction, and deletion over silent synchronization.
 
-[Enter the study room →](https://qianqiulp.github.io/blog/)
+## Beyond work
+
+Qiu’s Room is where I keep writing, guitar, games, relationships, and questions that have not turned into software.
+
+[Enter Qiu’s Room →](https://room.qiu.works/en/)
